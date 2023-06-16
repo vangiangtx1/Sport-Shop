@@ -1,0 +1,417 @@
+/*
+Template Name: toddlefun
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/
+*/
+@media (max-width: 1199px){
+    .main-banner{
+        height: 600px;
+    }
+    .display-nn{
+        display:none;
+    }
+    .offer-counter .col-md-7 {
+        width: 100%;
+    }
+    .inner-banner{
+        height: 380px;
+    }
+    .product-list-item {
+        margin-bottom: 40px;
+    }
+}
+@media (max-width: 991px){
+    .padding-top100 {
+        padding-top: 80px;
+    }
+    .mega-menu {
+        width: 500px;
+    }
+    .main-banner {
+        height: 400px;
+    }
+    .user-value ul li {
+        margin-left: 15px;
+    }
+    #demo-2 input[type="search"]:focus {
+        width: 100px;
+    }
+    .navbar-nav > li > a{
+        font-size: 14px;
+    }
+    .banner-box {
+        top: 60%;
+    }
+    .banner-title h1 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .banner-title{
+        padding: 20px;
+    }
+    .site-btn a {
+        padding: 8px 40px 8px 18px;
+    }
+    .site-btn .txt {
+        font-size: 12px;
+    }
+    .site-btn a .round {
+        height: 30px;
+        width: 30px;
+    }
+    .site-btn a .round i{
+        font-size: 12px;
+    }
+    .site-btn a:hover {
+        padding-left: 38px;
+        padding-right: 16px;
+    }
+    #myCarousel .carousel-caption h3{
+        font-size: 30px;
+    }
+    #myCarousel .carousel-caption p{
+        font-size: 14px;
+    }
+    .product-name h2 {
+        font-size: 22px;
+    }
+    .product-image .text_count{
+        font-size: 20px;
+    }
+    .section-header__title{
+        font-size: 30px;
+    }
+    .border-title p {
+        font-size: 13px;
+        margin-top: 6px;
+    }
+    .new-tag, .sale-tag, .new-tag::before, .sale-tag::before, .new-tag::after, .sale-tag::after{
+        height: 35px;
+        width: 35px;
+    }
+    .new-tag a, .sale-tag a{
+        font-size: 12px;
+        line-height: 35px;
+    }
+    .toy-details h4 {
+        font-size: 16px;
+    }
+    .button-action a {
+        font-size: 12px;
+        height: 35px;
+        line-height: 30px;
+        width: 35px;
+    }
+    .divider{
+        margin: 13px auto;
+    }
+    .offer-details > h2{
+        font-size: 32px;
+    }
+    .offer-details > span{
+        font-size: 16px;
+    }
+    .offer-details > hr{
+        margin: 10px auto 15px;
+    }
+    .subscribe-box .form-wrapper{
+        margin-top: 20px;
+    }
+    .subscribe-img{
+        top:50px;
+    }
+    .uniform-offer{
+        margin-bottom: 20px;
+    }
+    .post-title{
+        font-size: 18px;
+    }
+    .post-detail > p{
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .mt-40{margin-top:40px;}
+    .inner-banner {
+        height: 300px;
+    }
+    .inner-wrapper h1 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .total-product h3 {
+        font-size: 20px;
+    }
+    .caption_inside .name a {
+        font-size: 22px;
+    }
+    .price h3{
+        font-size: 18px;
+    }
+    .about-img img{
+        width:80%;
+        margin: 0px auto 20px;
+    }
+    .notfound-page .title{
+        font-size: 120px;
+    }
+    .notfound-page .sub {
+        font-size: 26px;
+        margin-top: 30px;
+    }
+    .error-description > p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .blog-title h2 {
+        font-size: 24px;
+    }
+    .blog-desc > p {
+        font-size: 13px;
+    }
+    .blog-desc blockquote {
+        font-size: 14px;
+    }
+    .about-desc h2 {
+        font-size: 26px;
+    }
+    .about-desc p {
+        font-size: 12px;
+        line-height: 20px;
+        margin: 20px 0;
+    }
+    .counter-details h3 {
+        font-size: 32px;    
+    }
+    .counter-details > h4 {
+        font-size: 16px;
+    }
+    .footer-links > h3 {
+        font-size: 20px;
+    }
+    .confirm-payment h2{
+        font-size: 24px;
+    }
+    .contact-list a {
+        font-size: 13px;
+        line-height: 26px;
+    }
+    .panel-title {
+        font-size: 14px;
+    }
+}
+@media (max-width: 767px){
+    .margin-top30{
+        margin-top: 30px;
+    }
+    .top-header, .recent-post, .tag, .notfound-page, .notfound-page .text-right {
+        text-align: center;
+    }
+    .user-value ul{
+        float:none;
+    }
+    .user-value {
+        margin-top: 30px;
+    }
+    .navbar-toggle {
+        background-color: #f7ad0a;
+    }
+    .navbar-toggle:hover{
+        background-color: #774be9;
+    }
+    .navbar-toggle .icon-bar {
+        background-color: #ff3366;
+    }
+    .navbar-collapse{
+        width:100%;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding: 0 !important;
+        text-align: center !important;
+    }
+    nav{
+        margin-top: 0;
+    }
+    .navbar-brand{
+        z-index: -1;
+    }
+    .navbar-nav > li > a{
+        margin-bottom: 10px;
+    }
+    .mega-menu{
+        left: 50%;
+        text-align: center;
+        float: none;
+        transform: translateX(-50%);
+    }
+    .mega-menu li{
+        float: none;
+    }
+    #myCarousel .carousel-inner {
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+    }
+    .offer-details > h2{
+        font-size: 28px;
+    }
+    .offer-details > span{
+        font-size: 15px;
+    }
+    #clockdiv div > span, #clockdiv div > span::after, #clockdiv div > span::before{
+        height: 60px;
+        width: 60px;
+        font-size: 28px;
+        line-height: 60px;
+    }
+    .subscribe-img{
+        top:56px;
+        right: 0;
+    }
+    .subscribe-box h2{
+        font-size: 26px;
+    }
+    .subscribe-box p{
+        font-size: 12px;
+    }
+    .featured-content > h2{
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .inner-banner{
+        height: 250px;
+    }
+    .inner-wrapper h1 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .recent-media-thumb img {
+        margin: 0 auto;
+    }
+    .notfound-page .error-description, .contact-details{
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 500px){
+    .inner-banner {
+        height: 200px;
+    }
+    .inner-wrapper{
+        left: 18%;
+    }
+}
+@media (max-width: 400px){
+    .footer-block, .aside, .total-product, .about-desc, .about-desc p{
+        text-align: center;
+    }
+    .width-100{
+        width: 100%;
+    }
+    .width-33{
+        width: 33.33%;
+    }
+    .marginTop-40px{
+        margin-top: 40px;
+    }
+    .search-box {
+        display: block;
+        margin-top: 20px;
+    }
+    .user-value{
+        margin-top: 20px;
+    }
+    .user-value ul li{
+        margin-left: 10px;
+    }
+    .user-value a, .phn-num{
+        font-size: 11px;
+    }
+    .main-banner{
+        height: 300px;
+    }
+    .banner-box{
+        top:65%;
+        left: 50%;
+        width: 80%;
+    }
+    .banner-title{
+        padding: 15px;
+    }
+    .banner-title h1{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    #myCarousel .carousel-inner{
+        width: 100%;
+    }
+    #myCarousel .carousel-caption h3{
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+    #myCarousel .carousel-caption p{
+        font-size: 12px;
+    }
+    .section-header__title{
+        font-size: 26px;
+    }
+    .border-title p{
+        font-size: 12px;
+    }
+    .subscribe-img{
+        display: none;
+    }
+    .subscribe-box{
+        padding: 15px 10px;
+    }
+    .subscribe-box{
+        text-align: center;
+    }
+    #submit, #search{
+        width:100%;
+        border-radius: 10px;
+    }
+    #submit{
+        margin-top: 10px;
+    }
+    .contact-list {
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        text-align: left;
+    }
+    .right-payment {
+        float: none;
+        margin-top: 20px;
+    }
+    .inner-wrapper h1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .inner-wrapper {
+        left: 12%;
+    }
+    .mt-40 {
+        margin-top: 20px;
+    }
+    .counter-banner{
+        height: 450px;
+    }
+    .counter-details {
+        margin-bottom: 30px;
+    }
+    .notfound-page .title {
+        font-size: 80px;
+    }
+    .notfound-page .sub {
+        font-size: 22px;
+        margin-top: 25px;
+    }
+    .notfound-page .error-description{
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+    .panel-title {
+        font-size: 13px;
+    }
+}
